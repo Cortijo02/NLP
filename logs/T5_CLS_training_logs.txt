@@ -1,0 +1,27 @@
+Epoch 1/6 - End of epoch
+  Training Loss: 0.2751
+  Validation Loss: 0.0446
+  Validation Accuracy: 0.9834
+Model saved to ./model_weights/model_epoch_1_acc0.9834.pth
+Epoch 2/6 - End of epoch
+  Training Loss: 0.0427
+  Validation Loss: 0.0232
+  Validation Accuracy: 0.9912
+Model saved to ./model_weights/model_epoch_2_acc0.9912.pth
+Epoch 3/6 - End of epoch
+  Training Loss: 0.0215
+  Validation Loss: 0.0273
+  Validation Accuracy: 0.9926
+Model saved to ./model_weights/model_epoch_3_acc0.9926.pth
+Epoch 4/6 - End of epoch
+  Training Loss: 0.0112
+  Validation Loss: 0.0993
+  Validation Accuracy: 0.9802
+Epoch 5/6 - End of epoch
+  Training Loss: 0.0133
+  Validation Loss: 0.0345
+  Validation Accuracy: 0.9908
+Epoch 6/6 - End of epoch
+  Training Loss: 0.0044
+  Validation Loss: 0.0409
+  Validation Accuracy: 0.9919
