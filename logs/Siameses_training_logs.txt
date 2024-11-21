@@ -1,0 +1,51 @@
+Epoch 1/6, Step 1/309
+  Running Loss: 0.6872
+Epoch 1/6, Step 201/309
+  Running Loss: 0.2421
+Epoch 1/6 - End of epoch
+  Training Loss: 0.1645
+  Validation Loss: 0.2352
+  Validation Accuracy: 0.8917
+Model saved to ./model_weights/model_epoch_1_acc0.8917.pth
+Epoch 2/6, Step 1/309
+  Running Loss: 0.0095
+Epoch 2/6, Step 201/309
+  Running Loss: 0.0075
+Epoch 2/6 - End of epoch
+  Training Loss: 0.0066
+  Validation Loss: 0.2226
+  Validation Accuracy: 0.8973
+Model saved to ./model_weights/model_epoch_2_acc0.8973.pth
+Epoch 3/6, Step 1/309
+  Running Loss: 0.0023
+Epoch 3/6, Step 201/309
+  Running Loss: 0.0025
+Epoch 3/6 - End of epoch
+  Training Loss: 0.0021
+  Validation Loss: 0.1631
+  Validation Accuracy: 0.9178
+Model saved to ./model_weights/model_epoch_3_acc0.9178.pth
+Epoch 4/6, Step 1/309
+  Running Loss: 0.0009
+Epoch 4/6, Step 201/309
+  Running Loss: 0.0009
+Epoch 4/6 - End of epoch
+  Training Loss: 0.0008
+  Validation Loss: 0.2538
+  Validation Accuracy: 0.8641
+Epoch 5/6, Step 1/309
+  Running Loss: 0.0005
+Epoch 5/6, Step 201/309
+  Running Loss: 0.0005
+Epoch 5/6 - End of epoch
+  Training Loss: 0.0005
+  Validation Loss: 0.1783
+  Validation Accuracy: 0.8980
+Epoch 6/6, Step 1/309
+  Running Loss: 0.0003
+Epoch 6/6, Step 201/309
+  Running Loss: 0.0003
+Epoch 6/6 - End of epoch
+  Training Loss: 0.0003
+  Validation Loss: 0.1775
+  Validation Accuracy: 0.8977
