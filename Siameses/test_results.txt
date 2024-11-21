@@ -1,7 +1,0 @@
-Test Loss: 0.1943
-Test Accuracy: 0.9231
-ROC-AUC: 0.9990
-Brier Score: 0.0572
-C@1: 0.9231
-F1 Score: 0.9226
-F0.5 Score: 0.9274
