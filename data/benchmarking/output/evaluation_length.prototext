@@ -1,0 +1,24 @@
+measure{
+  key: "Roc-Auc"
+  value: "0.459"
+}
+measure{
+  key: "Brier"
+  value: "0.46"
+}
+measure{
+  key: "C@1"
+  value: "0.46"
+}
+measure{
+  key: "F1"
+  value: "0.472"
+}
+measure{
+  key: "F05U"
+  value: "0.478"
+}
+measure{
+  key: "Mean"
+  value: "0.466"
+}
